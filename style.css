@@ -1,0 +1,31 @@
+header {
+  background: #D291BC;
+  height:80px;
+  width: 100%;
+}
+nav {
+    display: inline-block;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: 2em;
+	margin-right: 20px;
+    padding: 30px;
+}
+body {
+  font-family: Helvetica;
+  background:#288BA8;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  font-family: komu-a,sans-serif;
+}
